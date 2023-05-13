@@ -3,7 +3,7 @@ services:
   - type: web
     name: IMDb-Movie-Bot
     env: python
-    startCommand: python3 script.py
+    startCommand: python3 main.py
     buildCommand: pip3 install -U -r requirements.txt
     repo: https://github.com/KingstarStudios/IMDb-Movie-Bot # optional
     region: oregon # optional (defaults to oregon)
