@@ -115,8 +115,11 @@ python3 bot.py
 • /ban_users - to ban a user.
 • /unban_users - to unban a user.
 • /channel - to get list of total connected channels
-• /broadcast - to broadcast a message to all Eva Maria users
+• /broadcast - to broadcast a message to all Eva Maria users                                                                                                              
 ```
+   <p><a href="https://render.com/deploy?repo=https://github.com/KingstarStudios/IMDb-Movie-Bot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy">
+</a></p>                                                                                                            
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/JOSPSupport)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/JosProjects)
